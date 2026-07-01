@@ -38,7 +38,7 @@ If you’d like to add new exercises, improve documentation, or suggest projects
 
 ## 📬 Contact  
 Created by **Suryansh Singh**  
-- 💼 [https://www.linkedin.com/in/suryanshsingh-codes](https://www.linkedin.com/in/suryanshsingh-codes)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/suryanshsingh-codes](https://www.linkedin.com/in/suryanshsingh-codes)  
 - 📧 Email: mrsurya0509@gmail.com  
 
 ---
