@@ -1,4 +1,4 @@
-# 🐍 LearningPython  
+# 🐍 Python  
 
 ## 📌 Overview  
 Welcome to **LearningPython** – a repository designed to showcase Python concepts, projects, and problem-solving skills.  
@@ -10,9 +10,6 @@ This repo is a structured journey of learning Python step by step, with clean ex
 - 📖 **Educational Resource** – Covers Python basics to advanced topics   
 - 🛠️ **Hands-On Practice** – Includes exercises, scripts, and real-world mini-projects  
 - 🎯 **Growth-Oriented** – Tracks progress and showcases continuous learning  
-
----
-
 
 ---
 
