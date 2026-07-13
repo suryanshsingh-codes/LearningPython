@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🐍 Learning Python
-
+ 
 ### *From Fundamentals to Real-World Development*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=750&lines=Learning+Python+Step+by+Step;Building+Strong+Programming+Fundamentals;Writing+Clean%2C+Efficient+and+Readable+Code;Preparing+for+Machine+Learning+%26+AI;Learning+by+Building+Projects" />
