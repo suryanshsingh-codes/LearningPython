@@ -10,6 +10,13 @@ print("\n-------->Starting My Python Journey Now: DAY 1<--------\n")
 myVar1=23
 myVar2="Suryansh Singh"
 
+# CHARCTER AND UNICODE CONVERSION
+a="A"
+b=98
+print(ord(a)) # converts into the number
+print(chr(b)) # converts into the string
+
+
 # 3. TYPES OF VARIABLES
 print(type(myVar1), f"is the type of my variable : myVar1= {myVar1}")
 print(type(myVar2), f"is the type of my variable : myVar2= {myVar2}\n")
