@@ -21,7 +21,7 @@ print(myVar2[2:10:2], f"is now my sliced string of {myVar2}\n")
     # EXPLICIT TYPE CONVERSION
 myVar3=float(myVar1)
 print(myVar3, f" here i have done implicit type conversion of Integer: {myVar1} to Float: {myVar3}")
-    # EXPLICIT TYPE CONVERSION
+    # IMPLICIT TYPE CONVERSION
 print(25.8/myVar1, f" here explicit type conversion of dividing float:25.8 by Integer: {myVar1}\n")
 
 # 6. TAKING INPUT FROM THE USER
