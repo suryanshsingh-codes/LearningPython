@@ -26,6 +26,7 @@ print(myVar2[2:10:2], f"is now my sliced string of {myVar2}\n")
 
 # 5. TYPE CONVERSION
     # EXPLICIT TYPE CONVERSION
+        # also a example of FORMATTED STRING
 myVar3=float(myVar1)
 print(myVar3, f" here i have done implicit type conversion of Integer: {myVar1} to Float: {myVar3}")
     # IMPLICIT TYPE CONVERSION
