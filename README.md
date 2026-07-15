@@ -1,16 +1,17 @@
 <div align="center">
 
-# 🐍 Learning Python
- 
-### *From Fundamentals to Real-World Development*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Learning%20Python&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Intelligent%20Solutions&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=750&lines=Learning+Python+Step+by+Step;Building+Strong+Programming+Fundamentals;Writing+Clean%2C+Efficient+and+Readable+Code;Preparing+for+Machine+Learning+%26+AI;Learning+by+Building+Projects" />
+# 🤖 Learning Python
+### *From Fundamentals to Real-World Software Development*
 
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Learning+Python+Step+by+Step;Building+Strong+Programming+Fundamentals;Writing+Clean+and+Efficient+Code;Preparing+for+Machine+Learning+and+AI;Learning+by+Building+Real+Projects"/>
+
+<br>
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Maintained-Yes-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python"/>
-</p>
+<img src="https://img.shields.io/badge/Repository-Learning%20Python-yellow?style=for-the-badge"/>
 
 </div>
 
@@ -18,37 +19,37 @@
 
 # 📖 About This Repository
 
-Welcome to **Learning Python**!
+Welcome to my **Learning Python** repository.
 
-This repository documents my journey of learning **Python** from the ground up through structured notes, coding exercises, problem-solving, and hands-on projects.
+This repository documents my journey of learning Python through structured lessons, coding exercises, problem-solving, and practical mini projects.
 
-Rather than simply following tutorials, I focus on understanding concepts, writing clean code, solving real programming problems, and building a strong foundation for **Software Development**, **Machine Learning**, and **Artificial Intelligence**.
+Instead of simply memorizing syntax, I focus on understanding programming concepts, writing clean and maintainable code, and building a strong foundation for **Software Development, Machine Learning, and Artificial Intelligence**.
 
-Whether you're a beginner looking for Python examples or a recruiter exploring my work, this repository reflects my commitment to continuous learning and practical development.
+Every commit represents progress toward becoming a better software engineer.
 
 ---
 
 # ✨ Repository Highlights
 
-- 📚 Beginner to Intermediate Python Concepts
+- 🐍 Python Fundamentals
+- 📚 Structured Learning Path
 - 💻 Hands-on Coding Practice
 - 🧩 Logical Problem Solving
-- 🛠️ Mini Projects
-- 📂 Well-Organized Folder Structure
-- 📖 Clean & Readable Code
-- 📝 Detailed Documentation
-- 🚀 Continuous Learning & Improvement
+- 📂 Organized Folder Structure
+- 🚀 Daily Learning Progress
+- 📝 Clean & Documented Code
+- ⚡ Mini Projects & Exercises
 
 ---
 
-# 📚 Topics Covered
+# 📚 Learning Roadmap
 
 | Topic | Status |
-|:------|:------:|
+|:------------------------------|:------:|
 | Python Basics | ✅ |
 | Variables & Data Types | ✅ |
-| Input & Output | ✅ |
 | Operators | ✅ |
+| Input & Output | ✅ |
 | Conditional Statements | ✅ |
 | Loops | ✅ |
 | Functions | ✅ |
@@ -72,6 +73,10 @@ Whether you're a beginner looking for Python examples or a recruiter exploring m
 
 <img src="https://skillicons.dev/icons?i=python,vscode,github"/>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
 </div>
 
 ---
@@ -81,58 +86,84 @@ Whether you're a beginner looking for Python examples or a recruiter exploring m
 ```text
 LearningPython/
 │
-├── 📁 01_Basics
-├── 📁 02_Operators
-├── 📁 03_Conditional_Statements
-├── 📁 04_Loops
-├── 📁 05_Functions
-├── 📁 06_Strings
-├── 📁 07_Lists
-├── 📁 08_Tuples
-├── 📁 09_Dictionaries
-├── 📁 10_Sets
-├── 📁 11_File_Handling
-├── 📁 12_Exception_Handling
-├── 📁 13_Object_Oriented_Programming
-├── 📁 14_Modules_And_Packages
-├── 📁 15_Practice_Problems
-├── 📁 16_Mini_Projects
+├── 📁 Basics
+├── 📁 Operators
+├── 📁 Conditional_Statements
+├── 📁 Loops
+├── 📁 Functions
+├── 📁 Strings
+├── 📁 Lists
+├── 📁 Tuples
+├── 📁 Dictionaries
+├── 📁 Sets
+├── 📁 File_Handling
+├── 📁 Exception_Handling
+├── 📁 OOP
+├── 📁 Modules
+├── 📁 Practice
+├── 📁 Mini_Projects
 └── 📄 README.md
 ```
 
 ---
 
-# 🎯 Objectives
+# 🚀 Featured Learning
 
-- Build strong Python fundamentals
-- Develop logical and analytical thinking
-- Write clean, readable, and maintainable code
-- Strengthen problem-solving skills
+| Module | Description |
+|---------|-------------|
+| 🐍 Python Fundamentals | Core syntax, variables, data types & operators |
+| 🔄 Control Flow | Conditions, loops and logical programming |
+| 📂 Data Structures | Lists, Tuples, Dictionaries & Sets |
+| ⚙️ Functions & OOP | Reusable code and object-oriented programming |
+| 📁 File Handling | Reading, writing and managing files |
+| 🚨 Exception Handling | Robust error handling with try-except |
+| 🧩 Mini Projects | Applying concepts through practical coding |
+
+---
+
+# 🎯 Learning Objectives
+
+- Master Python fundamentals
+- Develop logical thinking
+- Improve problem-solving ability
+- Write clean and maintainable code
+- Build confidence through practical projects
 - Prepare for Data Structures & Algorithms
-- Build a solid foundation for Machine Learning & AI
+- Build a strong foundation for Machine Learning & AI
+
+---
+
+# 📈 Current Progress
+
+- ✅ Python Fundamentals
+- ✅ Core Programming Concepts
+- ✅ Data Structures
+- ✅ File Handling
+- ✅ Exception Handling
+- ✅ Object-Oriented Programming
 
 ---
 
 # 💡 Why This Repository?
 
-This repository is more than just a collection of Python programs.
+Programming is more than writing code—it's about solving problems efficiently.
 
-It represents my learning process, coding discipline, and continuous improvement as I progress toward becoming an AI Engineer.
+This repository reflects my commitment to continuous improvement through consistent practice, structured learning, and real-world implementation.
 
-Every folder, project, and exercise is designed to strengthen my understanding of Python and improve my ability to solve real-world programming challenges.
+Every folder and project represents another step toward becoming an AI Engineer capable of building production-quality software.
 
 ---
 
 # 🤝 Contributions
 
-Contributions, suggestions, and improvements are always welcome.
+Suggestions, feedback, and improvements are always welcome.
 
-If you'd like to improve this repository, feel free to:
+If you find this repository useful:
 
-- ⭐ Star this repository
-- 🍴 Fork the repository
-- 🐞 Open an Issue
-- 🔥 Submit a Pull Request
+- ⭐ Star the repository
+- 🍴 Fork it
+- 🐞 Report Issues
+- 🔥 Submit Pull Requests
 
 ---
 
@@ -148,14 +179,20 @@ If you'd like to improve this repository, feel free to:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/suryanshsingh-codes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this repository helpful, consider giving it a star!
+## ⭐ If you found this repository useful, consider giving it a Star!
 
-### 🚀 Happy Coding & Keep Learning!
+### 🚀 Learn • Practice • Build • Improve
+
+*"Great software is built one concept, one project, and one commit at a time."*
 
 </div>
