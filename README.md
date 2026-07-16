@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Learning%20Python&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Intelligent%20Solutions&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=%20Python&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Intelligent%20Solutions&descAlignY=58"/>
 
 # 🤖 Python
 ### *From Fundamentals to Real-World Software Development*
