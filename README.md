@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Learning%20Python&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=From%20Data%20to%20Intelligent%20Solutions&descAlignY=58"/>
 
-# 🤖 Learning Python
+# 🤖 Python
 ### *From Fundamentals to Real-World Software Development*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Learning+Python+Step+by+Step;Building+Strong+Programming+Fundamentals;Writing+Clean+and+Efficient+Code;Preparing+for+Machine+Learning+and+AI;Learning+by+Building+Real+Projects"/>
